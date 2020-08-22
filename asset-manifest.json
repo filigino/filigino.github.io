@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b15980d8.chunk.css",
-    "main.js": "/static/js/main.38e9d20a.chunk.js",
-    "main.js.map": "/static/js/main.38e9d20a.chunk.js.map",
+    "main.css": "/static/css/main.4323cb08.chunk.css",
+    "main.js": "/static/js/main.3a5e3e1c.chunk.js",
+    "main.js.map": "/static/js/main.3a5e3e1c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.216eeead.js",
     "runtime-main.js.map": "/static/js/runtime-main.216eeead.js.map",
     "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.2adc21c6.chunk.js": "/static/js/2.2adc21c6.chunk.js",
-    "static/js/2.2adc21c6.chunk.js.map": "/static/js/2.2adc21c6.chunk.js.map",
+    "static/js/2.c6b2d0bb.chunk.js": "/static/js/2.c6b2d0bb.chunk.js",
+    "static/js/2.c6b2d0bb.chunk.js.map": "/static/js/2.c6b2d0bb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1d33e97ede975a876686595ef166a27a.js": "/precache-manifest.1d33e97ede975a876686595ef166a27a.js",
+    "precache-manifest.5ba426d7f617c502e17b19616e2ea712.js": "/precache-manifest.5ba426d7f617c502e17b19616e2ea712.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.b15980d8.chunk.css.map": "/static/css/main.b15980d8.chunk.css.map",
-    "static/js/2.2adc21c6.chunk.js.LICENSE.txt": "/static/js/2.2adc21c6.chunk.js.LICENSE.txt",
+    "static/css/main.4323cb08.chunk.css.map": "/static/css/main.4323cb08.chunk.css.map",
+    "static/js/2.c6b2d0bb.chunk.js.LICENSE.txt": "/static/js/2.c6b2d0bb.chunk.js.LICENSE.txt",
     "static/media/Add Media Button.svg": "/static/media/Add Media Button.e85c9907.svg",
     "static/media/App.css": "/static/media/Background Image.d99af4a8.svg",
     "static/media/Bump Up.svg": "/static/media/Bump Up.a99bee97.svg",
+    "static/media/List Icon.svg": "/static/media/List Icon.be0fd974.svg",
     "static/media/Remove Icon.svg": "/static/media/Remove Icon.b3cba59d.svg",
     "static/media/Send Down.svg": "/static/media/Send Down.79380280.svg",
     "static/media/Send to Top.svg": "/static/media/Send to Top.cfef9a9d.svg",
@@ -27,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.216eeead.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.2adc21c6.chunk.js",
-    "static/css/main.b15980d8.chunk.css",
-    "static/js/main.38e9d20a.chunk.js"
+    "static/js/2.c6b2d0bb.chunk.js",
+    "static/css/main.4323cb08.chunk.css",
+    "static/js/main.3a5e3e1c.chunk.js"
   ]
 }
