@@ -1,35 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea21a155.chunk.css",
-    "main.js": "/static/js/main.dcdb5071.chunk.js",
-    "main.js.map": "/static/js/main.dcdb5071.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.216eeead.js",
-    "runtime-main.js.map": "/static/js/runtime-main.216eeead.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.7eaa8fec.chunk.js": "/static/js/2.7eaa8fec.chunk.js",
-    "static/js/2.7eaa8fec.chunk.js.map": "/static/js/2.7eaa8fec.chunk.js.map",
+    "main.css": "/static/css/main.20f807a6.chunk.css",
+    "main.js": "/static/js/main.3423e319.chunk.js",
+    "main.js.map": "/static/js/main.3423e319.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b41c6dd2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b41c6dd2.js.map",
+    "static/css/2.8554d837.chunk.css": "/static/css/2.8554d837.chunk.css",
+    "static/js/2.007fc912.chunk.js": "/static/js/2.007fc912.chunk.js",
+    "static/js/2.007fc912.chunk.js.map": "/static/js/2.007fc912.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.317efdeff79d43c645d8a6a383597adb.js": "/precache-manifest.317efdeff79d43c645d8a6a383597adb.js",
+    "precache-manifest.19f87a131d49081453fdea464495b2d8.js": "/precache-manifest.19f87a131d49081453fdea464495b2d8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.ea21a155.chunk.css.map": "/static/css/main.ea21a155.chunk.css.map",
-    "static/js/2.7eaa8fec.chunk.js.LICENSE.txt": "/static/js/2.7eaa8fec.chunk.js.LICENSE.txt",
-    "static/media/Add Media Button.svg": "/static/media/Add Media Button.e85c9907.svg",
-    "static/media/App.css": "/static/media/Background Image.d99af4a8.svg",
-    "static/media/Bump Up.svg": "/static/media/Bump Up.a99bee97.svg",
-    "static/media/List Icon.svg": "/static/media/List Icon.be0fd974.svg",
-    "static/media/Remove Icon.svg": "/static/media/Remove Icon.b3cba59d.svg",
-    "static/media/Send Down.svg": "/static/media/Send Down.79380280.svg",
-    "static/media/Send to Top.svg": "/static/media/Send to Top.cfef9a9d.svg",
-    "static/media/Setup Playlist Button.svg": "/static/media/Setup Playlist Button.e50d617a.svg",
-    "static/media/Strumr Logo Big.svg": "/static/media/Strumr Logo Big.2fc22a0e.svg",
-    "static/media/Strumr Logo Small.svg": "/static/media/Strumr Logo Small.c5350c8b.svg"
+    "static/css/2.8554d837.chunk.css.map": "/static/css/2.8554d837.chunk.css.map",
+    "static/css/main.20f807a6.chunk.css.map": "/static/css/main.20f807a6.chunk.css.map",
+    "static/js/2.007fc912.chunk.js.LICENSE.txt": "/static/js/2.007fc912.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.216eeead.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.7eaa8fec.chunk.js",
-    "static/css/main.ea21a155.chunk.css",
-    "static/js/main.dcdb5071.chunk.js"
+    "static/js/runtime-main.b41c6dd2.js",
+    "static/css/2.8554d837.chunk.css",
+    "static/js/2.007fc912.chunk.js",
+    "static/css/main.20f807a6.chunk.css",
+    "static/js/main.3423e319.chunk.js"
   ]
 }
